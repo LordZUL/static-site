@@ -1,0 +1,5 @@
+# ignore .idea folers (I have no idea where .idea is ;-;)
+.idea
+
+# ignore secret-passwords.txt files
+secret-passwords.txt
